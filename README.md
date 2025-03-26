@@ -17,7 +17,7 @@ This project is a simple yet powerful subdomain enumeration and port scanning to
 ### Clone the Repository
 ```sh
 git clone https://github.com/msimahov/LightRecon.git
-cd lightrecon
+cd LightRecon
 ```
 
 ### Install Dependencies (if any)
@@ -26,7 +26,7 @@ No external dependencies are required.
 ## Usage
 Run the script and enter a target domain:
 ```sh
-python lightrecon.py
+python LightRecon.py
 ```
 
 ### Example Output
