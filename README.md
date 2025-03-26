@@ -16,7 +16,7 @@ This project is a simple yet powerful subdomain enumeration and port scanning to
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/msimahov/lightrecon.git
+git clone https://github.com/msimahov/LightRecon.git
 cd lightrecon
 ```
 
